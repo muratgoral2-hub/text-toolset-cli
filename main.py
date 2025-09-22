@@ -322,7 +322,11 @@ def menu():
         6. FIND AND REPLACE
         7. REVERSE TXT
         8. WORD FREQUENCY ANALYSIS
-        9. EXIT
+        9. ADVANCED SEARCH (regex, case, context)
+        10. SHOW HEAD (First n lines)
+        11. SHOW TAİL (Last n lines)
+        12. UNDO LAST WRITE (Restore from .bak)
+        13. EXIT
         """)
         try:
 
