@@ -1,0 +1,10 @@
+Hello, this is a sample text file.
+It is used for testing the Text Toolset CLI.
+You can read this file using option 1 in the menu.
+You can analyze it with option 3.
+It contains a few words and lines.
+Feel free to search for the word 'Python'.
+You can also replace words using option 6.
+Try reversing the file with option 7.
+Or check the word frequency with option 8.
+End of sample text file.
